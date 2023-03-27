@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZUMdvZU09MbRgGcNqVcNfUKa3H1Y5/nlMrztc+gi5tQ=",
+  "Source": "ValGenesis.Core.FullTextSearchAPI",
+  "BasePath": "_content/ValGenesis.Core.FullTextSearchAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
